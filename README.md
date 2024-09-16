@@ -9,5 +9,9 @@ This ensures accurate and contextually appropriate response.
 We will be using an upto date from the 
 Wikipedia page at [Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence). 
 
+![chatbot-pipeline.png](chatbot-pipeline.png)
+
+Figure 1: Chatbot pipeline
+
 Visit [developing_custum_custom_chatbot.ipynb](./developing_custum_custom_chatbot.ipynb) notebook for step by step process of the implementation 
 and for comparison between a naive chatbot without RAG and a custom chatbot that uses RAG.

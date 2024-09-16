@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation Base Custom Chatbot
+# Retrieval Augmented Generation Based Custom Chatbot
 
 This repository contains implementation of retrieval augmented generation (RAG) based custom chatbot.
 
